@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="750" height="1624" viewBox="0 0 750 1624">
+  <defs>
+    <filter id="Frame_66" x="-150" y="36" width="1050" height="478" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="50" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-kitchen_light">
+      <rect width="750" height="1624"/>
+    </clipPath>
+  </defs>
+  <g id="kitchen_light" data-name="kitchen/light" clip-path="url(#clip-kitchen_light)">
+    <rect width="750" height="1624" fill="#fff"/>
+    <g id="Status_bar" data-name="Status bar">
+      <rect id="Status_bar-2" data-name="Status bar" width="750" height="88" fill="#2a2a37"/>
+      <g id="Battery">
+        <g id="Border" opacity="0.35">
+          <path id="Vector" d="M5.334,0H38.666A5.334,5.334,0,0,1,44,5.334v12a5.334,5.334,0,0,1-5.334,5.334H5.334A5.334,5.334,0,0,1,0,17.332v-12A5.334,5.334,0,0,1,5.334,0Z" transform="translate(672 34.666)" fill="none" opacity="0.35"/>
+          <path id="Vector-2" data-name="Vector" d="M4.334,0H37.666A4.334,4.334,0,0,1,42,4.334v12a4.334,4.334,0,0,1-4.334,4.334H4.334A4.334,4.334,0,0,1,0,16.332v-12A4.334,4.334,0,0,1,4.334,0Z" transform="translate(673 35.666)" fill="none" stroke="#fff" stroke-width="2" opacity="0.35"/>
+        </g>
+        <path id="Cap" d="M0,0V8A4.34,4.34,0,0,0,1.932,6.4,4.34,4.34,0,0,0,2.656,4a4.34,4.34,0,0,0-.724-2.4A4.34,4.34,0,0,0,0,0" transform="translate(718 42)" fill="#fff" opacity="0.4"/>
+        <path id="Capacity" d="M2.666,0H33.334A2.666,2.666,0,0,1,36,2.666V12a2.666,2.666,0,0,1-2.666,2.666H2.666A2.666,2.666,0,0,1,0,12V2.666A2.666,2.666,0,0,1,2.666,0Z" transform="translate(676 38.666)" fill="#fff"/>
+      </g>
+      <path id="Wifi" d="M15.275,21.929a.626.626,0,0,1-.442-.186l-4-4.032a.626.626,0,0,1,.02-.912,6.842,6.842,0,0,1,8.838,0,.622.622,0,0,1,.2.452.63.63,0,0,1-.188.46l-4,4.032a.616.616,0,0,1-.428.186Zm7.016-7.076a.624.624,0,0,1-.428-.17,9.8,9.8,0,0,0-13.17,0,.624.624,0,0,1-.428.17.616.616,0,0,1-.44-.182L5.517,12.337a.644.644,0,0,1,0-.918,14.316,14.316,0,0,1,19.5,0,.644.644,0,0,1,.2.458.652.652,0,0,1-.188.46l-2.3,2.334a.618.618,0,0,1-.438.182Zm5.31-5.37a.6.6,0,0,1-.428-.174,17.28,17.28,0,0,0-23.814,0,.6.6,0,0,1-.428.174.616.616,0,0,1-.44-.182L.189,6.969a.644.644,0,0,1,0-.912,21.8,21.8,0,0,1,30.16,0,.65.65,0,0,1,.2.456.638.638,0,0,1-.188.458L28.047,9.3a.614.614,0,0,1-.446.182Z" transform="translate(631.387 34.665)" fill="#fff"/>
+      <path id="Cellular_Connection" data-name="Cellular Connection" d="M32,21.334H30a2,2,0,0,1-2-2V2a2,2,0,0,1,2-2h2a2,2,0,0,1,2,2V19.334a2,2,0,0,1-2,2Zm-9.334,0h-2a2,2,0,0,1-2-2V6.668a2,2,0,0,1,2-2h2a2,2,0,0,1,2,2V19.334a2,2,0,0,1-2,2Zm-9.334,0h-2a2,2,0,0,1-2-2v-8a2,2,0,0,1,2-2h2a2,2,0,0,1,2,2v8a2,2,0,0,1-2,2ZM4,21.334H2a2,2,0,0,1-2-2v-4a2,2,0,0,1,2-2H4a2,2,0,0,1,2,2v4a2,2,0,0,1-2,2Z" transform="translate(587.334 35.334)" fill="#fff"/>
+      <text id="_9:41" data-name="9:41" transform="translate(63.786 26.66)" fill="#fff" font-size="30" font-family="SFProText-Semibold, SF Pro Text" font-weight="600"><tspan x="0" y="29">9:41</tspan></text>
+    </g>
+    <g id="Component_6" data-name="Component 6" transform="translate(0 88)">
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="750" height="88" fill="#2a2a37"/>
+      <g id="icon_back" data-name="icon/back" transform="translate(30 20)">
+        <path id="Vector_8" data-name="Vector 8" d="M16,0,0,15,16,30" transform="translate(16 9)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.462"/>
+      </g>
+      <text id="Kitchen" transform="translate(314 25)" fill="#fff" font-size="32" font-family="SFProText-Semibold, SF Pro Text" font-weight="600"><tspan x="0.539" y="30">Kitchen</tspan></text>
+      <g id="icon_add" data-name="icon/add" transform="translate(672 20)">
+        <g id="Group_11" data-name="Group 11">
+          <path id="Vector_9" data-name="Vector 9" d="M0,0H32" transform="translate(8 24)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+          <path id="Vector_10" data-name="Vector 10" d="M0,0H32" transform="matrix(0, 1, -1, 0, 24, 8)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+        </g>
+      </g>
+    </g>
+    <g id="Frame_66-2" data-name="Frame 66" transform="translate(0 176)">
+      <g transform="matrix(1, 0, 0, 1, 0, -176)" filter="url(#Frame_66)">
+        <rect id="Frame_66-3" data-name="Frame 66" width="750" height="178" transform="translate(0 176)" fill="#fff"/>
+      </g>
+      <text id="Light" transform="translate(48 114)" fill="#5e55a0" font-size="20" font-family="SFProText-Regular, SF Pro Text"><tspan x="0.24" y="19">Light</tspan></text>
+      <text id="Thermostat" transform="translate(168 114)" fill="#c4c4c4" font-size="20" font-family="SFProText-Regular, SF Pro Text"><tspan x="0.081" y="19">Thermostat</tspan></text>
+      <g id="icon" transform="translate(40 40)">
+        <g id="Group">
+          <path id="Vector-3" data-name="Vector" d="M34.66,17.337A17.331,17.331,0,1,0,5.994,30.417v.92a11.352,11.352,0,0,0,9.333,11.147V44.67a2,2,0,1,0,4,0V42.483A11.341,11.341,0,0,0,28.66,31.337v-.92A17.26,17.26,0,0,0,34.66,17.337Zm-30.667,0A13.333,13.333,0,1,1,17.327,30.67,13.355,13.355,0,0,1,3.994,17.337ZM17.327,38.67a7.35,7.35,0,0,1-7.107-5.533,17.236,17.236,0,0,0,14.213,0A7.35,7.35,0,0,1,17.327,38.67Z" transform="translate(14.673 14.664)" fill="#5e55a0"/>
+          <path id="Vector-4" data-name="Vector" d="M2,0A2,2,0,0,0,0,2V7.333a2,2,0,0,0,4,0V2A2,2,0,0,0,2,0Z" transform="translate(30 2.667)" fill="#5e55a0"/>
+          <path id="Vector-5" data-name="Vector" d="M7.19,4.363,3.417.59A2,2,0,0,0,.59,3.417L4.363,7.19A2,2,0,0,0,7.19,4.363Z" transform="translate(10.663 10.664)" fill="#5e55a0"/>
+          <path id="Vector-6" data-name="Vector" d="M7.333,0H2A2,2,0,1,0,2,4H7.333a2,2,0,0,0,0-4Z" transform="translate(2.667 30)" fill="#5e55a0"/>
+          <path id="Vector-7" data-name="Vector" d="M.58,7.19a1.988,1.988,0,0,0,2.827,0L7.18,3.417A2,2,0,1,0,4.353.59L.58,4.363A2.012,2.012,0,0,0,.58,7.19Z" transform="translate(10.673 45.557)" fill="#5e55a0"/>
+          <path id="Vector-8" data-name="Vector" d="M.59,3.417,4.363,7.19A2,2,0,0,0,7.19,4.363L3.417.59A2,2,0,0,0,.59,3.417Z" transform="translate(45.557 45.557)" fill="#5e55a0"/>
+          <path id="Vector-9" data-name="Vector" d="M0,2A2,2,0,0,0,2,4H7.333a2,2,0,0,0,0-4H2A2,2,0,0,0,0,2Z" transform="translate(52 30)" fill="#5e55a0"/>
+          <path id="Vector-10" data-name="Vector" d="M7.19.59a1.988,1.988,0,0,0-2.827,0L.59,4.363A2,2,0,0,0,3.417,7.19L7.19,3.417A2.012,2.012,0,0,0,7.19.59Z" transform="translate(45.557 10.664)" fill="#5e55a0"/>
+        </g>
+      </g>
+      <g id="icon-2" data-name="icon" transform="translate(191 40)">
+        <g id="Group-2" data-name="Group">
+          <path id="Vector-11" data-name="Vector" d="M24.407,33.64a3.947,3.947,0,0,1-1.36-3V8.187A8.273,8.273,0,0,0,14.674,0,8.293,8.293,0,0,0,6.287,8.187V30.64A4.024,4.024,0,0,1,4.9,33.667,14.022,14.022,0,0,0,.074,45.773a14.5,14.5,0,0,0,12.933,12.8c.547.053,1.093.093,1.627.093a14.906,14.906,0,0,0,9.813-3.653,14.1,14.1,0,0,0-.04-21.373ZM21.661,51.973a10.631,10.631,0,0,1-8.187,2.547,10.494,10.494,0,0,1-9.227-9.133A10.029,10.029,0,0,1,7.7,36.733a8.071,8.071,0,0,0,2.787-6.08V8.187a4.188,4.188,0,0,1,8.373,0V30.64a8.068,8.068,0,0,0,2.76,6.067,10.074,10.074,0,0,1,.04,15.267Z" transform="translate(17.333 2.667)" fill="#afafaf"/>
+          <path id="Vector-12" data-name="Vector" d="M7.693,32.227V1.36a1.4,1.4,0,0,0-2.8,0V32.227A6.116,6.116,0,0,0,6.28,44.333,6.218,6.218,0,0,0,12.56,38.2,6.146,6.146,0,0,0,7.693,32.227Zm-1.4,9.387a3.414,3.414,0,1,1,0-6.827,3.414,3.414,0,1,1,0,6.827Z" transform="translate(25.714 9.494)" fill="#afafaf"/>
+        </g>
+      </g>
+    </g>
+    <text id="Main_lights" data-name="Main lights" transform="translate(40 425)" font-size="48" font-family="SFProText-Semibold, SF Pro Text" font-weight="600"><tspan x="0" y="46">Main lights</tspan></text>
+    <text id="_45" data-name="45" transform="translate(273 553)" fill="#5e55a0" font-size="128" font-family="SFProText-Semibold, SF Pro Text" font-weight="600"><tspan x="0" y="122">45</tspan></text>
+    <text id="lm" transform="translate(442 579)" fill="#898a8d" font-size="30" font-family="SFProText-Semibold, SF Pro Text" font-weight="600"><tspan x="0" y="29">lm</tspan></text>
+    <text id="light_strenght" data-name="light strenght" transform="translate(273 706)" fill="#898a8d" font-size="28" font-family="SFProText-Semibold, SF Pro Text" font-weight="600"><tspan x="0" y="27">light strenght</tspan></text>
+    <text id="Kitchen-2" data-name="Kitchen" transform="translate(40 486)" font-size="24" font-family="SFProText-Semibold, SF Pro Text" font-weight="600"><tspan x="0" y="23">Kitchen</tspan></text>
+    <g id="Frame_88" data-name="Frame 88" transform="translate(555 423)">
+      <rect id="Frame_88-2" data-name="Frame 88" width="156" height="156" rx="16" fill="#5e55a0"/>
+      <path id="Frame_88_-_Outline" data-name="Frame 88 - Outline" d="M16,1A15,15,0,0,0,1,16V140a15,15,0,0,0,15,15H140a15,15,0,0,0,15-15V16A15,15,0,0,0,140,1H16m0-1H140a16,16,0,0,1,16,16V140a16,16,0,0,1-16,16H16A16,16,0,0,1,0,140V16A16,16,0,0,1,16,0Z" fill="#707070"/>
+      <g id="icon_setting" data-name="icon/setting" transform="translate(42 42)">
+        <g id="Group_48" data-name="Group 48">
+          <path id="Vector-13" data-name="Vector" d="M32.25,0a24,24,0,1,1-16.5,0" transform="translate(12 17.205)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="6"/>
+          <path id="Vector-14" data-name="Vector" d="M0,0V31.5" transform="translate(36 9)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="6"/>
+        </g>
+      </g>
+    </g>
+    <g id="icon_setting-2" data-name="icon/setting" transform="translate(597 465)">
+      <g id="Group_48-2" data-name="Group 48">
+        <path id="Vector-15" data-name="Vector" d="M32.25,0a24,24,0,1,1-16.5,0" transform="translate(12 17.205)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="6"/>
+        <path id="Vector-16" data-name="Vector" d="M0,0V31.5" transform="translate(36 9)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="6"/>
+      </g>
+    </g>
+    <g id="icon_setting-3" data-name="icon/setting" transform="translate(597 465)">
+      <g id="Group_48-3" data-name="Group 48">
+        <path id="Vector-17" data-name="Vector" d="M32.25,0a24,24,0,1,1-16.5,0" transform="translate(12 17.205)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="6"/>
+        <path id="Vector-18" data-name="Vector" d="M0,0V31.5" transform="translate(36 9)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="6"/>
+      </g>
+    </g>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="302" height="27" transform="translate(225 1477)" fill="#5e55a0"/>
+    <path id="Rectangle_2_-_Outline" data-name="Rectangle 2 - Outline" d="M1,1V26H301V1H1M0,0H302V27H0Z" transform="translate(225 1477)" fill="#707070"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="400" height="27" transform="translate(176 1321)" fill="#5e55a0"/>
+    <path id="Rectangle_8_-_Outline" data-name="Rectangle 8 - Outline" d="M1,1V26H399V1H1M0,0H400V27H0Z" transform="translate(176 1321)" fill="#707070"/>
+    <rect id="Rectangle_12" data-name="Rectangle 12" width="500" height="27" transform="translate(126 1165)" fill="#fff"/>
+    <path id="Rectangle_12_-_Outline" data-name="Rectangle 12 - Outline" d="M1,1V26H499V1H1M0,0H500V27H0Z" transform="translate(126 1165)" fill="#707070"/>
+    <rect id="Rectangle_16" data-name="Rectangle 16" width="600" height="27" transform="translate(76 1009)" fill="#fff"/>
+    <path id="Rectangle_16_-_Outline" data-name="Rectangle 16 - Outline" d="M1,1V26H599V1H1M0,0H600V27H0Z" transform="translate(76 1009)" fill="#707070"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="350" height="27" transform="translate(201 1399)" fill="#5e55a0"/>
+    <path id="Rectangle_5_-_Outline" data-name="Rectangle 5 - Outline" d="M1,1V26H349V1H1M0,0H350V27H0Z" transform="translate(201 1399)" fill="#707070"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="450" height="27" transform="translate(151 1243)" fill="#5e55a0"/>
+    <path id="Rectangle_7_-_Outline" data-name="Rectangle 7 - Outline" d="M1,1V26H449V1H1M0,0H450V27H0Z" transform="translate(151 1243)" fill="#707070"/>
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="550" height="27" transform="translate(101 1087)" fill="#fff"/>
+    <path id="Rectangle_11_-_Outline" data-name="Rectangle 11 - Outline" d="M1,1V26H549V1H1M0,0H550V27H0Z" transform="translate(101 1087)" fill="#707070"/>
+    <rect id="Rectangle_15" data-name="Rectangle 15" width="650" height="27" transform="translate(51 931)" fill="#fff"/>
+    <path id="Rectangle_15_-_Outline" data-name="Rectangle 15 - Outline" d="M1,1V26H649V1H1M0,0H650V27H0Z" transform="translate(51 931)" fill="#707070"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="325" height="27" transform="translate(213 1438)" fill="#5e55a0"/>
+    <path id="Rectangle_3_-_Outline" data-name="Rectangle 3 - Outline" d="M1,1V26H324V1H1M0,0H325V27H0Z" transform="translate(213 1438)" fill="#707070"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="425" height="27" transform="translate(163 1282)" fill="#5e55a0"/>
+    <path id="Rectangle_9_-_Outline" data-name="Rectangle 9 - Outline" d="M1,1V26H424V1H1M0,0H425V27H0Z" transform="translate(163 1282)" fill="#707070"/>
+    <rect id="Rectangle_13" data-name="Rectangle 13" width="525" height="27" transform="translate(113 1126)" fill="#fff"/>
+    <path id="Rectangle_13_-_Outline" data-name="Rectangle 13 - Outline" d="M1,1V26H524V1H1M0,0H525V27H0Z" transform="translate(113 1126)" fill="#707070"/>
+    <rect id="Rectangle_17" data-name="Rectangle 17" width="625" height="27" transform="translate(63 970)" fill="#fff"/>
+    <path id="Rectangle_17_-_Outline" data-name="Rectangle 17 - Outline" d="M1,1V26H624V1H1M0,0H625V27H0Z" transform="translate(63 970)" fill="#707070"/>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="375" height="27" transform="translate(188 1360)" fill="#5e55a0"/>
+    <path id="Rectangle_4_-_Outline" data-name="Rectangle 4 - Outline" d="M1,1V26H374V1H1M0,0H375V27H0Z" transform="translate(188 1360)" fill="#707070"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="475" height="27" transform="translate(138 1204)" fill="#fff"/>
+    <path id="Rectangle_6_-_Outline" data-name="Rectangle 6 - Outline" d="M1,1V26H474V1H1M0,0H475V27H0Z" transform="translate(138 1204)" fill="#707070"/>
+    <rect id="Rectangle_10-2" data-name="Rectangle 10" width="575" height="27" transform="translate(88 1048)" fill="#fff"/>
+    <path id="Rectangle_10_-_Outline" data-name="Rectangle 10 - Outline" d="M1,1V26H574V1H1M0,0H575V27H0Z" transform="translate(88 1048)" fill="#707070"/>
+    <rect id="Rectangle_14" data-name="Rectangle 14" width="675" height="27" transform="translate(38 892)" fill="#fff"/>
+    <path id="Rectangle_14_-_Outline" data-name="Rectangle 14 - Outline" d="M1,1V26H674V1H1M0,0H675V27H0Z" transform="translate(38 892)" fill="#707070"/>
+  </g>
+</svg>

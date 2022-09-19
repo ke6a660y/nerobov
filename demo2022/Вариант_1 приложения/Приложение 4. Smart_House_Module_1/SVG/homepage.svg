@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="750" height="1624" viewBox="0 0 750 1624">
+  <defs>
+    <filter id="Frame_7" x="-120" y="231" width="625" height="560" filterUnits="userSpaceOnUse">
+      <feOffset dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="50" result="blur"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Frame_16" x="-119" y="531" width="625" height="560" filterUnits="userSpaceOnUse">
+      <feOffset dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="50" result="blur-2"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Frame_8" x="245" y="231" width="625" height="560" filterUnits="userSpaceOnUse">
+      <feOffset dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="50" result="blur-3"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-homepage">
+      <rect width="750" height="1624"/>
+    </clipPath>
+  </defs>
+  <g id="homepage" clip-path="url(#clip-homepage)">
+    <rect width="750" height="1624" fill="#fff"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="750" height="321" fill="#2a2a37"/>
+    <g id="Status_bar" data-name="Status bar">
+      <g id="Battery">
+        <g id="Border" opacity="0.35">
+          <path id="Vector" d="M5.334,0H38.666A5.334,5.334,0,0,1,44,5.334v12a5.334,5.334,0,0,1-5.334,5.334H5.334A5.334,5.334,0,0,1,0,17.332v-12A5.334,5.334,0,0,1,5.334,0Z" transform="translate(672 34.666)" fill="none" opacity="0.35"/>
+          <path id="Vector-2" data-name="Vector" d="M4.334,0H37.666A4.334,4.334,0,0,1,42,4.334v12a4.334,4.334,0,0,1-4.334,4.334H4.334A4.334,4.334,0,0,1,0,16.332v-12A4.334,4.334,0,0,1,4.334,0Z" transform="translate(673 35.666)" fill="none" stroke="#fff" stroke-width="2" opacity="0.35"/>
+        </g>
+        <path id="Cap" d="M0,0V8A4.34,4.34,0,0,0,1.932,6.4,4.34,4.34,0,0,0,2.656,4a4.34,4.34,0,0,0-.724-2.4A4.34,4.34,0,0,0,0,0" transform="translate(718 42)" fill="#fff" opacity="0.4"/>
+        <path id="Capacity" d="M2.666,0H33.334A2.666,2.666,0,0,1,36,2.666V12a2.666,2.666,0,0,1-2.666,2.666H2.666A2.666,2.666,0,0,1,0,12V2.666A2.666,2.666,0,0,1,2.666,0Z" transform="translate(676 38.666)" fill="#fff"/>
+      </g>
+      <path id="Wifi" d="M15.275,21.929a.626.626,0,0,1-.442-.186l-4-4.032a.626.626,0,0,1,.02-.912,6.842,6.842,0,0,1,8.838,0,.622.622,0,0,1,.2.452.63.63,0,0,1-.188.46l-4,4.032a.616.616,0,0,1-.428.186Zm7.016-7.076a.624.624,0,0,1-.428-.17,9.8,9.8,0,0,0-13.17,0,.624.624,0,0,1-.428.17.616.616,0,0,1-.44-.182L5.517,12.337a.644.644,0,0,1,0-.918,14.316,14.316,0,0,1,19.5,0,.644.644,0,0,1,.2.458.652.652,0,0,1-.188.46l-2.3,2.334a.618.618,0,0,1-.438.182Zm5.31-5.37a.6.6,0,0,1-.428-.174,17.28,17.28,0,0,0-23.814,0,.6.6,0,0,1-.428.174.616.616,0,0,1-.44-.182L.189,6.969a.644.644,0,0,1,0-.912,21.8,21.8,0,0,1,30.16,0,.65.65,0,0,1,.2.456.638.638,0,0,1-.188.458L28.047,9.3a.614.614,0,0,1-.446.182Z" transform="translate(631.387 34.665)" fill="#fff"/>
+      <path id="Cellular_Connection" data-name="Cellular Connection" d="M32,21.334H30a2,2,0,0,1-2-2V2a2,2,0,0,1,2-2h2a2,2,0,0,1,2,2V19.334a2,2,0,0,1-2,2Zm-9.334,0h-2a2,2,0,0,1-2-2V6.668a2,2,0,0,1,2-2h2a2,2,0,0,1,2,2V19.334a2,2,0,0,1-2,2Zm-9.334,0h-2a2,2,0,0,1-2-2v-8a2,2,0,0,1,2-2h2a2,2,0,0,1,2,2v8a2,2,0,0,1-2,2ZM4,21.334H2a2,2,0,0,1-2-2v-4a2,2,0,0,1,2-2H4a2,2,0,0,1,2,2v4a2,2,0,0,1-2,2Z" transform="translate(587.334 35.334)" fill="#fff"/>
+      <text id="_9:41" data-name="9:41" transform="translate(63.786 26.66)" fill="#fff" font-size="30" font-family="SFProText-Semibold, SF Pro Text" font-weight="600"><tspan x="0" y="29">9:41</tspan></text>
+    </g>
+    <text id="Your_Home" data-name="Your Home" transform="translate(30 118)" fill="#fff" font-size="48" font-family="SFProText-Bold, SF Pro Text" font-weight="700"><tspan x="0" y="46">Your Home</tspan></text>
+    <text id="ROOMS" transform="translate(30 257)" fill="#fff" font-size="30" font-family="SFProText-Regular, SF Pro Text"><tspan x="0" y="29">ROOMS</tspan></text>
+    <g id="Frame_7-2" data-name="Frame 7" transform="translate(30 361)">
+      <g transform="matrix(1, 0, 0, 1, -30, -361)" filter="url(#Frame_7)">
+        <rect id="Frame_7-3" data-name="Frame 7" width="325" height="260" rx="20" transform="translate(30 361)" fill="#fff"/>
+      </g>
+      <text id="Living_Room" data-name="Living Room" transform="translate(91 172)" fill="#5e55a0" font-size="24" font-family="SFProText-Bold, SF Pro Text" font-weight="700"><tspan x="0" y="23">Living Room</tspan></text>
+      <text id="_3_Devices" data-name="×3 Devices" transform="translate(99 211)" fill="#0e0e12" font-size="24" font-family="SFProText-Regular, SF Pro Text" opacity="0.2"><tspan x="0.266" y="23">×3 Devices</tspan></text>
+      <g id="room" transform="translate(99 30)">
+        <g id="Group">
+          <path id="Vector-3" data-name="Vector" d="M86.7,8.04l-1.64,5.253a11.447,11.447,0,0,1-10.933,8.04H34.97a11.447,11.447,0,0,1-10.933-8.04L22.4,8.04A11.454,11.454,0,0,0,.53,14.867L6.7,34.627a11.447,11.447,0,0,0,10.933,8.04H91.464a11.447,11.447,0,0,0,10.933-8.04l6.173-19.76A11.454,11.454,0,0,0,86.7,8.04Z" transform="translate(9.333 58)" fill="none" stroke="#5e55a0" stroke-width="5.333"/>
+          <path id="Vector-4" data-name="Vector" d="M0,44,5.627,9.52A10.693,10.693,0,0,1,16.24,0H63.76a10.67,10.67,0,0,1,10.6,9.52L80,42.667" transform="translate(24.544 14.667)" fill="none" stroke="#5e55a0" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.333"/>
+          <path id="Vector-5" data-name="Vector" d="M8,0,0,12" transform="translate(34.544 100.667)" fill="none" stroke="#5e55a0" stroke-linecap="round" stroke-width="5.333"/>
+          <path id="Vector-6" data-name="Vector" d="M0,0,8,12" transform="translate(85.21 100.667)" fill="none" stroke="#5e55a0" stroke-linecap="round" stroke-width="5.333"/>
+          <path id="Vector-7" data-name="Vector" d="M0,16V8.467A8.533,8.533,0,0,1,8.6,0H24.733a8.533,8.533,0,0,1,8.6,8.467V16" transform="translate(47.21 52.667)" fill="none" stroke="#5e55a0" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.333"/>
+        </g>
+      </g>
+    </g>
+    <g id="Frame_16-2" data-name="Frame 16" transform="translate(31 661)">
+      <g transform="matrix(1, 0, 0, 1, -31, -661)" filter="url(#Frame_16)">
+        <rect id="Frame_16-3" data-name="Frame 16" width="325" height="260" rx="20" transform="translate(31 661)" fill="#5e55a0"/>
+      </g>
+      <text id="Bathroom" transform="translate(103 172)" fill="#fff" font-size="24" font-family="SFProText-Bold, SF Pro Text" font-weight="700"><tspan x="0" y="23">Bathroom</tspan></text>
+      <text id="_3_Devices-2" data-name="×3 Devices" transform="translate(99 211)" fill="#fff" font-size="24" font-family="SFProText-Regular, SF Pro Text" opacity="0.6"><tspan x="0.266" y="23">×3 Devices</tspan></text>
+      <g id="room-2" data-name="room" transform="translate(99 30)">
+        <g id="Group-2" data-name="Group">
+          <path id="Vector-8" data-name="Vector" d="M0,0H54" transform="translate(60 76)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.333"/>
+          <path id="Vector-9" data-name="Vector" d="M0,0H19.333" transform="translate(13.333 76)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.333"/>
+          <path id="Vector-10" data-name="Vector" d="M0,0V12A26.659,26.659,0,0,0,26.667,38.667H64A26.659,26.659,0,0,0,90.667,12V0" transform="translate(18.667 76)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.333"/>
+          <path id="Vector-11" data-name="Vector" d="M18.667,62.667v-54A8.666,8.666,0,0,0,10,0H8.667A8.666,8.666,0,0,0,0,8.667" transform="translate(81.333 13.333)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.333"/>
+          <path id="Vector-12" data-name="Vector" d="M0,13a13,13,0,0,1,26,0Z" transform="translate(65.333 23)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.333"/>
+          <path id="Vector-13" data-name="Vector" d="M21.333,28.667h-16A5.332,5.332,0,0,1,0,23.333v-18A5.332,5.332,0,0,1,5.333,0h16a5.332,5.332,0,0,1,5.333,5.333v18A5.332,5.332,0,0,1,21.333,28.667Z" transform="translate(32.667 70)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.333"/>
+        </g>
+      </g>
+    </g>
+    <g id="Frame_8-2" data-name="Frame 8" transform="translate(395 361)">
+      <g transform="matrix(1, 0, 0, 1, -395, -361)" filter="url(#Frame_8)">
+        <rect id="Frame_8-3" data-name="Frame 8" width="325" height="260" rx="20" transform="translate(395 361)" fill="#fff"/>
+      </g>
+      <text id="Kitchen" transform="translate(119 172)" fill="#5e55a0" font-size="24" font-family="SFProText-Bold, SF Pro Text" font-weight="700"><tspan x="0.252" y="23">Kitchen</tspan></text>
+      <text id="_3_Devices-3" data-name="×3 Devices" transform="translate(99 211)" fill="#0e0e12" font-size="24" font-family="SFProText-Regular, SF Pro Text" opacity="0.2"><tspan x="0.266" y="23">×3 Devices</tspan></text>
+      <g id="room-3" data-name="room" transform="translate(99 30)">
+        <g id="Group-3" data-name="Group">
+          <path id="Vector-14" data-name="Vector" d="M96,0H5.333A5.332,5.332,0,0,0,0,5.333v9.333A5.332,5.332,0,0,0,5.333,20H96a5.332,5.332,0,0,0,5.333-5.333V5.333A5.332,5.332,0,0,0,96,0Z" transform="translate(13.333 13.333)" fill="none" stroke="#5e55a0" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.333"/>
+          <path id="Vector-15" data-name="Vector" d="M0,0V18.667" transform="translate(42.667 14.667)" fill="none" stroke="#5e55a0" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.333"/>
+          <path id="Vector-16" data-name="Vector" d="M0,0V18.667" transform="translate(85.333 14.667)" fill="none" stroke="#5e55a0" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.333"/>
+          <path id="Vector-17" data-name="Vector" d="M5.333,46.667H96a5.332,5.332,0,0,0,5.333-5.333v-36A5.332,5.332,0,0,0,96,0H5.333A5.332,5.332,0,0,0,0,5.333v36A5.332,5.332,0,0,0,5.333,46.667Z" transform="translate(13.333 68)" fill="none" stroke="#5e55a0" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.333"/>
+          <path id="Vector-18" data-name="Vector" d="M0,0H100" transform="translate(14 80.667)" fill="none" stroke="#5e55a0" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.333"/>
+          <path id="Vector-19" data-name="Vector" d="M0,0V33.333" transform="translate(42.667 81.333)" fill="none" stroke="#5e55a0" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.333"/>
+          <path id="Vector-20" data-name="Vector" d="M0,0V34" transform="translate(85.333 80.667)" fill="none" stroke="#5e55a0" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.333"/>
+          <path id="Vector-21" data-name="Vector" d="M29.333,0A14.667,14.667,0,1,1,0,0Z" transform="translate(28 53.333)" fill="none" stroke="#5e55a0" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.333"/>
+          <path id="Vector-22" data-name="Vector" d="M16.24,17.067H1.413L0,0H17.653Z" transform="translate(81.333 50.667)" fill="none" stroke="#5e55a0" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.333"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="172" height="12" transform="translate(0 309)" fill="#5e55a0"/>
+    <g id="Frame_23" data-name="Frame 23" transform="translate(656 237)">
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="29.333" cy="29.333" r="29.333" transform="translate(2.667 2.667)" fill="#5e55a0"/>
+      <g id="Group_9" data-name="Group 9">
+        <path id="Vector_4" data-name="Vector 4" d="M0,0H26.667" transform="translate(18.667 32)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+        <path id="Vector_5" data-name="Vector 5" d="M0,0H26.667" transform="translate(32 18.667) rotate(90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+      </g>
+    </g>
+    <g id="Tab_bar" data-name="Tab bar" transform="translate(0 1464)">
+      <rect id="Tab_bar-2" data-name="Tab bar" width="750" height="160" fill="#fff"/>
+      <g id="Frame_37" data-name="Frame 37" transform="translate(60 20)">
+        <g id="Group-4" data-name="Group">
+          <path id="Vector-23" data-name="Vector" d="M48,50.667H2.667A2.682,2.682,0,0,1,0,47.966V19.85a2.725,2.725,0,0,1,1.073-2.167L23.74.535a2.65,2.65,0,0,1,3.193,0L49.6,17.683a2.729,2.729,0,0,1,1.067,2.167V47.966A2.682,2.682,0,0,1,48,50.667Z" transform="translate(6.667 6.667)" fill="none" stroke="#5e55a0" stroke-width="4"/>
+          <g id="Group-5" data-name="Group">
+            <path id="Vector-24" data-name="Vector" d="M5.333,2.667A2.667,2.667,0,1,1,2.667,0,2.667,2.667,0,0,1,5.333,2.667Z" transform="translate(29.333 43.305)" fill="#5e55a0"/>
+            <path id="Vector-25" data-name="Vector" d="M0,3.35a11.443,11.443,0,0,1,16.18,0" transform="translate(23.913 37.195)" fill="none" stroke="#5e55a0" stroke-width="4"/>
+            <path id="Vector-26" data-name="Vector" d="M0,5.955a20.348,20.348,0,0,1,28.767,0" transform="translate(17.62 28.422)" fill="none" stroke="#5e55a0" stroke-width="4"/>
+          </g>
+        </g>
+      </g>
+      <g id="Frame_38" data-name="Frame 38" transform="translate(249 20)">
+        <g id="Group-6" data-name="Group">
+          <path id="Vector-27" data-name="Vector" d="M5.333,29.333h-4A1.337,1.337,0,0,1,0,28V1.333A1.337,1.337,0,0,1,1.333,0h4A1.337,1.337,0,0,1,6.667,1.333V28A1.337,1.337,0,0,1,5.333,29.333Z" transform="translate(6.667 28)" fill="#d3d3d3"/>
+          <path id="Vector-28" data-name="Vector" d="M5.333,25.333h-4A1.337,1.337,0,0,1,0,24V1.333A1.337,1.337,0,0,1,1.333,0h4A1.337,1.337,0,0,1,6.667,1.333V24A1.337,1.337,0,0,1,5.333,25.333Z" transform="translate(50.667 32)" fill="#d3d3d3"/>
+          <path id="Vector-29" data-name="Vector" d="M5.333,40h-4A1.337,1.337,0,0,1,0,38.667V1.333A1.337,1.337,0,0,1,1.333,0h4A1.337,1.337,0,0,1,6.667,1.333V38.667A1.337,1.337,0,0,1,5.333,40Z" transform="translate(21.333 17.333)" fill="#d3d3d3"/>
+          <path id="Vector-30" data-name="Vector" d="M5.333,50.667h-4A1.337,1.337,0,0,1,0,49.333v-48A1.337,1.337,0,0,1,1.333,0h4A1.337,1.337,0,0,1,6.667,1.333v48A1.337,1.337,0,0,1,5.333,50.667Z" transform="translate(36 6.667)" fill="#d3d3d3"/>
+        </g>
+      </g>
+      <g id="Frame_39" data-name="Frame 39" transform="translate(438 20)">
+        <g id="Group-7" data-name="Group">
+          <path id="Vector-31" data-name="Vector" d="M16,8A8,8,0,1,1,8,0,8,8,0,0,1,16,8Z" transform="translate(24 6)" fill="#d3d3d3"/>
+          <path id="Vector-32" data-name="Vector" d="M16,8A8,8,0,1,1,8,0,8,8,0,0,1,16,8Z" transform="translate(41.333 40.667)" fill="#d3d3d3"/>
+          <path id="Vector-33" data-name="Vector" d="M16,8A8,8,0,1,1,8,0,8,8,0,0,1,16,8Z" transform="translate(6.667 40.667)" fill="#d3d3d3"/>
+          <path id="Vector-34" data-name="Vector" d="M44,22A22,22,0,1,1,22,0,22,22,0,0,1,44,22Z" transform="translate(10 13.333)" fill="none" stroke="#d3d3d3" stroke-width="4"/>
+        </g>
+      </g>
+      <text id="Home" transform="translate(65 88)" fill="#5e55a0" font-size="18" font-family="SFProText-Bold, SF Pro Text" font-weight="700"><tspan x="0.076" y="17">Home</tspan></text>
+      <text id="Statics" transform="translate(250 88)" fill="#d3d3d3" font-size="18" font-family="SFProText-Bold, SF Pro Text" font-weight="700"><tspan x="0" y="17">Statics</tspan></text>
+      <text id="Routines" transform="translate(431 88)" fill="#d3d3d3" font-size="18" font-family="SFProText-Bold, SF Pro Text" font-weight="700"><tspan x="0" y="17">Routines</tspan></text>
+      <text id="Setting" transform="translate(626 88)" fill="#d3d3d3" font-size="18" font-family="SFProText-Bold, SF Pro Text" font-weight="700"><tspan x="0" y="17">Setting</tspan></text>
+      <g id="Frame_42" data-name="Frame 42" transform="translate(627 20)">
+        <g id="Group-8" data-name="Group">
+          <path id="Vector-35" data-name="Vector" d="M50.613,23.72c-6.353-3.98-8.133-8.067-6.327-15.193a27.006,27.006,0,0,0-2.14-2.14c-7.127,1.8-11.213.02-15.193-6.327Q26.143,0,25.333,0c-.54,0-1.08.02-1.613.053C19.74,6.407,15.653,8.187,8.527,6.38a27.007,27.007,0,0,0-2.14,2.14c1.8,7.127.02,11.213-6.327,15.193q-.06.81-.06,1.62c0,.54.02,1.08.053,1.613,6.353,3.98,8.133,8.067,6.327,15.193a27.006,27.006,0,0,0,2.14,2.14c7.127-1.8,11.213-.02,15.193,6.327q.81.06,1.62.06c.54,0,1.08-.02,1.613-.053,3.98-6.353,8.067-8.133,15.193-6.327a27.006,27.006,0,0,0,2.14-2.14c-1.8-7.127-.02-11.213,6.327-15.193q.06-.81.06-1.62C50.667,24.793,50.647,24.253,50.613,23.72Z" transform="translate(6.667 6.667)" fill="none" stroke="#d3d3d3" stroke-width="4"/>
+          <path id="Vector-36" data-name="Vector" d="M17.333,8.667A8.667,8.667,0,1,1,8.667,0,8.667,8.667,0,0,1,17.333,8.667Z" transform="translate(23.333 23.333)" fill="none" stroke="#d3d3d3" stroke-width="4"/>
+        </g>
+      </g>
+    </g>
+    <text id="_2715_Ash_Dr._San_Jose_South_Dakota_83475" data-name="2715 Ash Dr. San Jose, South Dakota 83475" transform="translate(58 185)" fill="#fff" font-size="24" font-family="SFProText-Regular, SF Pro Text" opacity="0.5"><tspan x="0" y="23">2715 Ash Dr. San Jose, South Dakota 83475</tspan></text>
+    <g id="icon_location" data-name="icon/location" transform="translate(30 188)" opacity="0.5">
+      <path id="Vector-37" data-name="Vector" d="M8.064,20.986c-.251,0-.389-.03-.477-.133C7.533,20.791,2.2,14.465.784,11.4A8.207,8.207,0,0,1,0,7.951,8.064,8.064,0,0,1,16.127,8a6.78,6.78,0,0,1-.862,3.476A91.855,91.855,0,0,1,8.548,20.84c-.059.074-.165.146-.472.146H8.064Zm0-16.1a3.1,3.1,0,1,0,3.1,3.1A3.105,3.105,0,0,0,8.064,4.883Z" transform="translate(4 1.5)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

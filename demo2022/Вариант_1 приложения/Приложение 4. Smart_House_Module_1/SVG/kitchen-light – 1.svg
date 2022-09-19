@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="750" height="1624" viewBox="0 0 750 1624">
+  <defs>
+    <filter id="Frame_66" x="-150" y="36" width="1050" height="478" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="50" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-kitchen_light_1">
+      <rect width="750" height="1624"/>
+    </clipPath>
+  </defs>
+  <g id="kitchen_light_1" data-name="kitchen/light – 1" clip-path="url(#clip-kitchen_light_1)">
+    <rect width="750" height="1624" fill="#fff"/>
+    <g id="Status_bar" data-name="Status bar">
+      <rect id="Status_bar-2" data-name="Status bar" width="750" height="88" fill="#2a2a37"/>
+      <g id="Battery">
+        <g id="Border" opacity="0.35">
+          <path id="Vector" d="M5.334,0H38.666A5.334,5.334,0,0,1,44,5.334v12a5.334,5.334,0,0,1-5.334,5.334H5.334A5.334,5.334,0,0,1,0,17.332v-12A5.334,5.334,0,0,1,5.334,0Z" transform="translate(672 34.666)" fill="none" opacity="0.35"/>
+          <path id="Vector-2" data-name="Vector" d="M4.334,0H37.666A4.334,4.334,0,0,1,42,4.334v12a4.334,4.334,0,0,1-4.334,4.334H4.334A4.334,4.334,0,0,1,0,16.332v-12A4.334,4.334,0,0,1,4.334,0Z" transform="translate(673 35.666)" fill="none" stroke="#fff" stroke-width="2" opacity="0.35"/>
+        </g>
+        <path id="Cap" d="M0,0V8A4.34,4.34,0,0,0,1.932,6.4,4.34,4.34,0,0,0,2.656,4a4.34,4.34,0,0,0-.724-2.4A4.34,4.34,0,0,0,0,0" transform="translate(718 42)" fill="#fff" opacity="0.4"/>
+        <path id="Capacity" d="M2.666,0H33.334A2.666,2.666,0,0,1,36,2.666V12a2.666,2.666,0,0,1-2.666,2.666H2.666A2.666,2.666,0,0,1,0,12V2.666A2.666,2.666,0,0,1,2.666,0Z" transform="translate(676 38.666)" fill="#fff"/>
+      </g>
+      <path id="Wifi" d="M15.275,21.929a.626.626,0,0,1-.442-.186l-4-4.032a.626.626,0,0,1,.02-.912,6.842,6.842,0,0,1,8.838,0,.622.622,0,0,1,.2.452.63.63,0,0,1-.188.46l-4,4.032a.616.616,0,0,1-.428.186Zm7.016-7.076a.624.624,0,0,1-.428-.17,9.8,9.8,0,0,0-13.17,0,.624.624,0,0,1-.428.17.616.616,0,0,1-.44-.182L5.517,12.337a.644.644,0,0,1,0-.918,14.316,14.316,0,0,1,19.5,0,.644.644,0,0,1,.2.458.652.652,0,0,1-.188.46l-2.3,2.334a.618.618,0,0,1-.438.182Zm5.31-5.37a.6.6,0,0,1-.428-.174,17.28,17.28,0,0,0-23.814,0,.6.6,0,0,1-.428.174.616.616,0,0,1-.44-.182L.189,6.969a.644.644,0,0,1,0-.912,21.8,21.8,0,0,1,30.16,0,.65.65,0,0,1,.2.456.638.638,0,0,1-.188.458L28.047,9.3a.614.614,0,0,1-.446.182Z" transform="translate(631.387 34.665)" fill="#fff"/>
+      <path id="Cellular_Connection" data-name="Cellular Connection" d="M32,21.334H30a2,2,0,0,1-2-2V2a2,2,0,0,1,2-2h2a2,2,0,0,1,2,2V19.334a2,2,0,0,1-2,2Zm-9.334,0h-2a2,2,0,0,1-2-2V6.668a2,2,0,0,1,2-2h2a2,2,0,0,1,2,2V19.334a2,2,0,0,1-2,2Zm-9.334,0h-2a2,2,0,0,1-2-2v-8a2,2,0,0,1,2-2h2a2,2,0,0,1,2,2v8a2,2,0,0,1-2,2ZM4,21.334H2a2,2,0,0,1-2-2v-4a2,2,0,0,1,2-2H4a2,2,0,0,1,2,2v4a2,2,0,0,1-2,2Z" transform="translate(587.334 35.334)" fill="#fff"/>
+      <text id="_9:41" data-name="9:41" transform="translate(63.786 26.66)" fill="#fff" font-size="30" font-family="SFProText-Semibold, SF Pro Text" font-weight="600"><tspan x="0" y="29">9:41</tspan></text>
+    </g>
+    <g id="Component_6" data-name="Component 6" transform="translate(0 88)">
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="750" height="88" fill="#2a2a37"/>
+      <g id="icon_back" data-name="icon/back" transform="translate(30 20)">
+        <path id="Vector_8" data-name="Vector 8" d="M16,0,0,15,16,30" transform="translate(16 9)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.462"/>
+      </g>
+      <text id="Kitchen" transform="translate(314 25)" fill="#fff" font-size="32" font-family="SFProText-Semibold, SF Pro Text" font-weight="600"><tspan x="0.539" y="30">Kitchen</tspan></text>
+      <g id="icon_add" data-name="icon/add" transform="translate(672 20)">
+        <g id="Group_11" data-name="Group 11">
+          <path id="Vector_9" data-name="Vector 9" d="M0,0H32" transform="translate(8 24)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+          <path id="Vector_10" data-name="Vector 10" d="M0,0H32" transform="matrix(0, 1, -1, 0, 24, 8)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+        </g>
+      </g>
+    </g>
+    <g id="Frame_66-2" data-name="Frame 66" transform="translate(0 176)">
+      <g transform="matrix(1, 0, 0, 1, 0, -176)" filter="url(#Frame_66)">
+        <rect id="Frame_66-3" data-name="Frame 66" width="750" height="178" transform="translate(0 176)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

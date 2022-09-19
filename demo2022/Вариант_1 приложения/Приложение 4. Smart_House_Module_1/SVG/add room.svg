@@ -1,0 +1,188 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="750" height="1624" viewBox="0 0 750 1624">
+  <defs>
+    <filter id="Frame_48" x="-30" y="460" width="300" height="300" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feFlood flood-color="#5e55a0" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-add_room">
+      <rect width="750" height="1624"/>
+    </clipPath>
+  </defs>
+  <g id="add_room" data-name="add room" clip-path="url(#clip-add_room)">
+    <rect width="750" height="1624" fill="#fff"/>
+    <g id="Status_bar" data-name="Status bar">
+      <rect id="Status_bar-2" data-name="Status bar" width="750" height="88" fill="#2a2a37"/>
+      <g id="Battery">
+        <g id="Border" opacity="0.35">
+          <path id="Vector" d="M5.334,0H38.666A5.334,5.334,0,0,1,44,5.334v12a5.334,5.334,0,0,1-5.334,5.334H5.334A5.334,5.334,0,0,1,0,17.332v-12A5.334,5.334,0,0,1,5.334,0Z" transform="translate(672 34.666)" fill="none" opacity="0.35"/>
+          <path id="Vector-2" data-name="Vector" d="M4.334,0H37.666A4.334,4.334,0,0,1,42,4.334v12a4.334,4.334,0,0,1-4.334,4.334H4.334A4.334,4.334,0,0,1,0,16.332v-12A4.334,4.334,0,0,1,4.334,0Z" transform="translate(673 35.666)" fill="none" stroke="#fff" stroke-width="2" opacity="0.35"/>
+        </g>
+        <path id="Cap" d="M0,0V8A4.34,4.34,0,0,0,1.932,6.4,4.34,4.34,0,0,0,2.656,4a4.34,4.34,0,0,0-.724-2.4A4.34,4.34,0,0,0,0,0" transform="translate(718 42)" fill="#fff" opacity="0.4"/>
+        <path id="Capacity" d="M2.666,0H33.334A2.666,2.666,0,0,1,36,2.666V12a2.666,2.666,0,0,1-2.666,2.666H2.666A2.666,2.666,0,0,1,0,12V2.666A2.666,2.666,0,0,1,2.666,0Z" transform="translate(676 38.666)" fill="#fff"/>
+      </g>
+      <path id="Wifi" d="M15.275,21.929a.626.626,0,0,1-.442-.186l-4-4.032a.626.626,0,0,1,.02-.912,6.842,6.842,0,0,1,8.838,0,.622.622,0,0,1,.2.452.63.63,0,0,1-.188.46l-4,4.032a.616.616,0,0,1-.428.186Zm7.016-7.076a.624.624,0,0,1-.428-.17,9.8,9.8,0,0,0-13.17,0,.624.624,0,0,1-.428.17.616.616,0,0,1-.44-.182L5.517,12.337a.644.644,0,0,1,0-.918,14.316,14.316,0,0,1,19.5,0,.644.644,0,0,1,.2.458.652.652,0,0,1-.188.46l-2.3,2.334a.618.618,0,0,1-.438.182Zm5.31-5.37a.6.6,0,0,1-.428-.174,17.28,17.28,0,0,0-23.814,0,.6.6,0,0,1-.428.174.616.616,0,0,1-.44-.182L.189,6.969a.644.644,0,0,1,0-.912,21.8,21.8,0,0,1,30.16,0,.65.65,0,0,1,.2.456.638.638,0,0,1-.188.458L28.047,9.3a.614.614,0,0,1-.446.182Z" transform="translate(631.387 34.665)" fill="#fff"/>
+      <path id="Cellular_Connection" data-name="Cellular Connection" d="M32,21.334H30a2,2,0,0,1-2-2V2a2,2,0,0,1,2-2h2a2,2,0,0,1,2,2V19.334a2,2,0,0,1-2,2Zm-9.334,0h-2a2,2,0,0,1-2-2V6.668a2,2,0,0,1,2-2h2a2,2,0,0,1,2,2V19.334a2,2,0,0,1-2,2Zm-9.334,0h-2a2,2,0,0,1-2-2v-8a2,2,0,0,1,2-2h2a2,2,0,0,1,2,2v8a2,2,0,0,1-2,2ZM4,21.334H2a2,2,0,0,1-2-2v-4a2,2,0,0,1,2-2H4a2,2,0,0,1,2,2v4a2,2,0,0,1-2,2Z" transform="translate(587.334 35.334)" fill="#fff"/>
+      <text id="_9:41" data-name="9:41" transform="translate(63.786 26.66)" fill="#fff" font-size="30" font-family="SFProText-Semibold, SF Pro Text" font-weight="600"><tspan x="0" y="29">9:41</tspan></text>
+    </g>
+    <text id="Enter_Room_s_name" data-name="Enter Room’s name" transform="translate(30 256)" fill="#979797" font-size="24" font-family="SFProText-Semibold, SF Pro Text" font-weight="600"><tspan x="0" y="23">Enter Room’s name</tspan></text>
+    <text id="Select_room_s_icon" data-name="Select room’s icon" transform="translate(30 453)" fill="#979797" font-size="24" font-family="SFProText-Semibold, SF Pro Text" font-weight="600"><tspan x="0" y="23">Select room’s </tspan></text>
+    <text id="Kitchen" transform="translate(50 332)" fill="#2a2a37" font-size="28" font-family="SFProText-Semibold, SF Pro Text" font-weight="600"><tspan x="0" y="27">Kitchen</tspan></text>
+    <text id="Kitchen-2" data-name="Kitchen" transform="translate(75 712)" fill="#5e55a0" font-size="24" font-family="SFProText-Bold, SF Pro Text" font-weight="700"><tspan x="0.252" y="23">Kitchen</tspan></text>
+    <text id="Bedroom" transform="translate(321 712)" fill="#2a2a37" font-size="24" font-family="SFProText-Bold, SF Pro Text" font-weight="700"><tspan x="0.02" y="23">Bedroom</tspan></text>
+    <text id="TV_Room" data-name="TV Room" transform="translate(321 1001)" fill="#2a2a37" font-size="24" font-family="SFProText-Bold, SF Pro Text" font-weight="700"><tspan x="0.146" y="23">TV Room</tspan></text>
+    <text id="Toilet" transform="translate(342 1290)" fill="#2a2a37" font-size="24" font-family="SFProText-Bold, SF Pro Text" font-weight="700"><tspan x="0.107" y="23">Toilet</tspan></text>
+    <text id="Office" transform="translate(83 1001)" fill="#2a2a37" font-size="24" font-family="SFProText-Bold, SF Pro Text" font-weight="700"><tspan x="0.498" y="23">Office</tspan></text>
+    <text id="Garage" transform="translate(77 1290)" fill="#2a2a37" font-size="24" font-family="SFProText-Bold, SF Pro Text" font-weight="700"><tspan x="0.217" y="23">Garage</tspan></text>
+    <text id="Bathroom" transform="translate(572 712)" fill="#2a2a37" font-size="24" font-family="SFProText-Bold, SF Pro Text" font-weight="700"><tspan x="0.432" y="23">Bathroom</tspan></text>
+    <text id="Living_Room" data-name="Living Room" transform="translate(557 1001)" fill="#2a2a37" font-size="24" font-family="SFProText-Bold, SF Pro Text" font-weight="700"><tspan x="0.424" y="23">Living Room</tspan></text>
+    <text id="Kid_Room" data-name="Kid Room" transform="translate(574 1290)" fill="#2a2a37" font-size="24" font-family="SFProText-Bold, SF Pro Text" font-weight="700"><tspan x="0.447" y="23">Kid Room</tspan></text>
+    <path id="Rectangle_13" data-name="Rectangle 13" d="M12,1A11,11,0,0,0,1,12V76A11,11,0,0,0,12,87H678a11,11,0,0,0,11-11V12A11,11,0,0,0,678,1H12m0-1H678a12,12,0,0,1,12,12V76a12,12,0,0,1-12,12H12A12,12,0,0,1,0,76V12A12,12,0,0,1,12,0Z" transform="translate(30 305)" fill="#d3d3d3"/>
+    <g id="Frame_48-2" data-name="Frame 48" transform="translate(30 512)">
+      <g transform="matrix(1, 0, 0, 1, -30, -512)" filter="url(#Frame_48)">
+        <rect id="Frame_48-3" data-name="Frame 48" width="180" height="180" rx="90" transform="translate(30 512)" fill="#5e55a0"/>
+      </g>
+      <g id="room" transform="translate(46 46)">
+        <g id="Group">
+          <path id="Vector-3" data-name="Vector" d="M66,0H3.667A3.666,3.666,0,0,0,0,3.667v6.417A3.666,3.666,0,0,0,3.667,13.75H66a3.666,3.666,0,0,0,3.667-3.667V3.667A3.666,3.666,0,0,0,66,0Z" transform="translate(9.167 9.167)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-4" data-name="Vector" d="M0,0V12.833" transform="translate(29.333 10.083)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-5" data-name="Vector" d="M0,0V12.833" transform="translate(58.667 10.083)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-6" data-name="Vector" d="M3.667,32.083H66a3.666,3.666,0,0,0,3.667-3.667V3.667A3.666,3.666,0,0,0,66,0H3.667A3.666,3.666,0,0,0,0,3.667v24.75A3.666,3.666,0,0,0,3.667,32.083Z" transform="translate(9.167 46.75)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-7" data-name="Vector" d="M0,0H68.75" transform="translate(9.625 55.458)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-8" data-name="Vector" d="M0,0V22.917" transform="translate(29.333 55.917)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-9" data-name="Vector" d="M0,0V23.375" transform="translate(58.667 55.458)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-10" data-name="Vector" d="M20.167,0A10.083,10.083,0,0,1,0,0Z" transform="translate(19.25 36.667)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-11" data-name="Vector" d="M11.165,11.733H.972L0,0H12.137Z" transform="translate(55.917 34.833)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        </g>
+      </g>
+    </g>
+    <g id="Frame_57" data-name="Frame 57" transform="translate(285 512)">
+      <rect id="Frame_57-2" data-name="Frame 57" width="180" height="180" rx="90" fill="#f0f0f0"/>
+      <g id="room-2" data-name="room" transform="translate(46 46)">
+        <g id="Group-2" data-name="Group">
+          <path id="Vector-12" data-name="Vector" d="M0,31.167V7.333A7.331,7.331,0,0,1,7.333,0h55a7.331,7.331,0,0,1,7.333,7.333V31.167" transform="translate(9.167 44.917)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-13" data-name="Vector" d="M0,0H69.667" transform="translate(9.167 67.833)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-14" data-name="Vector" d="M0,33V7.856C0,3.52,4.107,0,9.167,0h41.25c5.06,0,9.167,3.52,9.167,7.856V33" transform="translate(14.208 11.917)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-15" data-name="Vector" d="M5.5,16.5H23.833a5.5,5.5,0,0,0,5.5-5.5V5.5a5.5,5.5,0,0,0-5.5-5.5H5.5A5.5,5.5,0,0,0,0,5.5V11A5.5,5.5,0,0,0,5.5,16.5Z" transform="translate(14.667 28.417)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-16" data-name="Vector" d="M5.5,16.5H23.833a5.5,5.5,0,0,0,5.5-5.5V5.5a5.5,5.5,0,0,0-5.5-5.5H5.5A5.5,5.5,0,0,0,0,5.5V11A5.5,5.5,0,0,0,5.5,16.5Z" transform="translate(44 28.417)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        </g>
+      </g>
+    </g>
+    <g id="Frame_60" data-name="Frame 60" transform="translate(285 801)">
+      <rect id="Frame_60-2" data-name="Frame 60" width="180" height="180" rx="90" fill="#f0f0f0"/>
+      <g id="room-3" data-name="room" transform="translate(46 46)">
+        <g id="Group-3" data-name="Group">
+          <g id="Group-4" data-name="Group">
+            <path id="Vector-17" data-name="Vector" d="M18.205,9.1A9.105,9.105,0,0,1,.1,10.487,9.739,9.739,0,0,1,0,9.1a9.1,9.1,0,0,1,18.205,0Z" transform="translate(18.517 44)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+            <path id="Vector-18" data-name="Vector" d="M11.147,1.6A9.1,9.1,0,0,1,.1,10.487,9.739,9.739,0,0,1,0,9.1,9.1,9.1,0,0,1,11.046.211,9.739,9.739,0,0,1,11.147,1.6Z" transform="translate(18.517 44)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+            <path id="Vector-19" data-name="Vector" d="M0,11.376C0,5.088,7.232,0,16.161,0S32.322,5.1,32.322,11.376" transform="translate(11.458 65.166)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          </g>
+          <g id="Group-5" data-name="Group">
+            <path id="Vector-20" data-name="Vector" d="M18.333,9.167A9.17,9.17,0,0,1,.1,10.56,9.87,9.87,0,0,1,0,9.167a9.167,9.167,0,1,1,18.333,0Z" transform="translate(51.333 43.771)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+            <path id="Vector-21" data-name="Vector" d="M0,11.458C0,5.133,7.287,0,16.271,0S32.542,5.133,32.542,11.458" transform="translate(44.229 65.083)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+            <path id="Vector-22" data-name="Vector" d="M8.021,0A9.1,9.1,0,0,1,0,6.417" transform="translate(44 57.063)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+            <path id="Vector-23" data-name="Vector" d="M0,0A9.1,9.1,0,0,0,8.021,6.417" transform="translate(68.979 57.063)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          </g>
+          <path id="Vector-24" data-name="Vector" d="M5.958,40.333H3.667A3.666,3.666,0,0,1,0,36.667v-33A3.666,3.666,0,0,1,3.667,0H66a3.666,3.666,0,0,1,3.667,3.667V32.542" transform="translate(9.167 22)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-25" data-name="Vector" d="M0,0,12.8,11,25.208,0" transform="translate(31.167 11)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        </g>
+      </g>
+    </g>
+    <g id="Frame_63" data-name="Frame 63" transform="translate(285 1090)">
+      <rect id="Frame_63-2" data-name="Frame 63" width="180" height="180" rx="90" fill="#f0f0f0"/>
+      <g id="room-4" data-name="room" transform="translate(46 46)">
+        <g id="Group-6" data-name="Group">
+          <path id="Vector-26" data-name="Vector" d="M3.684,0H70a3.666,3.666,0,0,1,3.667,3.667V5.454a3.658,3.658,0,0,1-1.531,2.979l-3.548,2.548a3.657,3.657,0,0,0-2.255,3.382V34.833A3.666,3.666,0,0,1,62.671,38.5H20.294a3.668,3.668,0,0,1-3.437-4.95l2.5-4.849a3.647,3.647,0,0,0-1.531-4.418C14.152,22.082,8.891,16.858.714,5.839A3.676,3.676,0,0,1,3.684,0Z" transform="translate(8.829 44)" fill="none" stroke="#afafaf" stroke-width="4"/>
+          <path id="Vector-27" data-name="Vector" d="M23.833,38.5H0V3.667A3.666,3.666,0,0,1,3.667,0h16.5a3.666,3.666,0,0,1,3.667,3.667Z" transform="translate(58.667 5.5)" fill="none" stroke="#afafaf" stroke-width="4"/>
+          <path id="Vector-28" data-name="Vector" d="M51.333,9.167H1.833A1.839,1.839,0,0,1,0,7.333V3.667A3.666,3.666,0,0,1,3.667,0H49.5a3.666,3.666,0,0,1,3.667,3.667V7.333A1.839,1.839,0,0,1,51.333,9.167Z" transform="translate(5.5 34.833)" fill="none" stroke="#afafaf" stroke-width="4"/>
+        </g>
+      </g>
+    </g>
+    <g id="Frame_62" data-name="Frame 62" transform="translate(30 801)">
+      <rect id="Frame_62-2" data-name="Frame 62" width="180" height="180" rx="90" fill="#f0f0f0"/>
+      <g id="room-5" data-name="room" transform="translate(46 46)">
+        <g id="Group-7" data-name="Group">
+          <path id="Vector-29" data-name="Vector" d="M0,38.5V4.052A3.874,3.874,0,0,1,3.667,0H66a3.874,3.874,0,0,1,3.667,4.052V38.5" transform="translate(9.167 40.333)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-width="4"/>
+          <path id="Vector-30" data-name="Vector" d="M0,0H68.75" transform="translate(9.625 50.976)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-width="4"/>
+          <path id="Vector-31" data-name="Vector" d="M0,0H20.167V27.5H0Z" transform="translate(58.667 51.333)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-32" data-name="Vector" d="M0,0H38.042V22H0Z" transform="translate(15.125 9.167)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-33" data-name="Vector" d="M0,0V6.875" transform="translate(34.146 33)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-34" data-name="Vector" d="M0,0H19.708" transform="translate(58.667 65.542)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-width="4"/>
+        </g>
+      </g>
+    </g>
+    <g id="Frame_64" data-name="Frame 64" transform="translate(30 1090)">
+      <rect id="Frame_64-2" data-name="Frame 64" width="180" height="180" rx="90" fill="#f0f0f0"/>
+      <g id="room-6" data-name="room" transform="translate(46 46)">
+        <g id="Group-8" data-name="Group">
+          <path id="Vector-35" data-name="Vector" d="M0,0H20.167V31.625H0Z" transform="translate(9.167 47.208)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <g id="Group-9" data-name="Group">
+            <path id="Vector-36" data-name="Vector" d="M0,21.083,21.083,0,42.167,21.083" transform="translate(36.667 9.167)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+            <path id="Vector-37" data-name="Vector" d="M0,0V21.917a3.327,3.327,0,0,0,3.328,3.328H29.957a3.327,3.327,0,0,0,3.328-3.328V0" transform="translate(41.103 26.089)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+            <path id="Vector-38" data-name="Vector" d="M0,16.647V3.914A3.966,3.966,0,0,1,4.024,0h8.048A3.972,3.972,0,0,1,16.1,3.914V16.647" transform="translate(49.702 34.687)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+            <path id="Vector-39" data-name="Vector" d="M0,0H14.978" transform="translate(50.536 43.286)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          </g>
+          <path id="Vector-40" data-name="Vector" d="M5.5,2.75A2.75,2.75,0,1,1,2.75,0,2.75,2.75,0,0,1,5.5,2.75Z" transform="translate(16.5 65.083)" fill="#afafaf"/>
+          <path id="Vector-41" data-name="Vector" d="M0,3.8a12.957,12.957,0,0,1,18.324,0" transform="translate(10.083 34.375)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        </g>
+      </g>
+    </g>
+    <g id="Frame_58" data-name="Frame 58" transform="translate(540 512)">
+      <rect id="Frame_58-2" data-name="Frame 58" width="180" height="180" rx="90" fill="#f0f0f0"/>
+      <g id="room-7" data-name="room" transform="translate(46 46)">
+        <g id="Group-10" data-name="Group">
+          <path id="Vector-42" data-name="Vector" d="M0,0H37.125" transform="translate(41.25 52.25)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-43" data-name="Vector" d="M0,0H13.292" transform="translate(9.167 52.25)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-44" data-name="Vector" d="M0,0V8.25A18.328,18.328,0,0,0,18.333,26.583H44A18.328,18.328,0,0,0,62.333,8.25V0" transform="translate(12.833 52.25)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-45" data-name="Vector" d="M12.833,43.083V5.958A5.958,5.958,0,0,0,6.875,0H5.958A5.958,5.958,0,0,0,0,5.958" transform="translate(55.917 9.167)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-46" data-name="Vector" d="M0,8.938a8.938,8.938,0,0,1,17.875,0Z" transform="translate(44.917 15.812)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-47" data-name="Vector" d="M14.667,19.708h-11A3.666,3.666,0,0,1,0,16.042V3.667A3.666,3.666,0,0,1,3.667,0h11a3.666,3.666,0,0,1,3.667,3.667V16.042A3.666,3.666,0,0,1,14.667,19.708Z" transform="translate(22.458 48.125)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        </g>
+      </g>
+    </g>
+    <g id="Frame_61" data-name="Frame 61" transform="translate(540 801)">
+      <rect id="Frame_61-2" data-name="Frame 61" width="180" height="180" rx="90" fill="#f0f0f0"/>
+      <g id="room-8" data-name="room" transform="translate(46 46)">
+        <g id="Group-11" data-name="Group">
+          <path id="Vector-48" data-name="Vector" d="M59.609,5.527,58.481,9.139a7.87,7.87,0,0,1-7.517,5.527H24.042a7.87,7.87,0,0,1-7.517-5.527L15.4,5.527A7.874,7.874,0,0,0,.365,10.221L4.609,23.806a7.87,7.87,0,0,0,7.517,5.527H62.881A7.87,7.87,0,0,0,70.4,23.806l4.244-13.585A7.874,7.874,0,0,0,59.609,5.527Z" transform="translate(6.417 39.875)" fill="none" stroke="#afafaf" stroke-width="4"/>
+          <path id="Vector-49" data-name="Vector" d="M0,30.25l3.868-23.7A7.351,7.351,0,0,1,11.165,0h32.67a7.336,7.336,0,0,1,7.288,6.545L55,29.333" transform="translate(16.874 10.083)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-50" data-name="Vector" d="M5.5,0,0,8.25" transform="translate(23.749 69.208)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-width="4"/>
+          <path id="Vector-51" data-name="Vector" d="M0,0,5.5,8.25" transform="translate(58.582 69.208)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-width="4"/>
+          <path id="Vector-52" data-name="Vector" d="M0,11V5.821A5.867,5.867,0,0,1,5.913,0H17a5.867,5.867,0,0,1,5.913,5.821V11" transform="translate(32.457 36.208)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        </g>
+      </g>
+    </g>
+    <g id="Frame_65" data-name="Frame 65" transform="translate(540 1090)">
+      <rect id="Frame_65-2" data-name="Frame 65" width="180" height="180" rx="90" fill="#f0f0f0"/>
+      <g id="room-9" data-name="room" transform="translate(46 46)">
+        <g id="Group-12" data-name="Group">
+          <path id="Vector-53" data-name="Vector" d="M69.667,0V29.792a7.331,7.331,0,0,1-7.333,7.333h-55A7.331,7.331,0,0,1,0,29.792V0" transform="translate(9.167 41.708)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-54" data-name="Vector" d="M0,0H68.75" transform="translate(9.625 49.5)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-55" data-name="Vector" d="M0,0V28.875" transform="translate(36.822 49.958)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-56" data-name="Vector" d="M0,0V28.875" transform="translate(22.458 49.958)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-57" data-name="Vector" d="M0,0V28.875" transform="translate(51.178 49.958)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-58" data-name="Vector" d="M0,0V28.875" transform="translate(65.542 49.958)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-59" data-name="Vector" d="M0,0H29.333" transform="translate(45.833 14.667)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-60" data-name="Vector" d="M0,0V12.833" transform="translate(60.5 9.167)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-61" data-name="Vector" d="M0,0V7.333" transform="translate(71.5 14.667)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-62" data-name="Vector" d="M0,0V7.333" transform="translate(49.5 14.667)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-63" data-name="Vector" d="M7.333,3.667A3.667,3.667,0,1,1,3.667,0,3.667,3.667,0,0,1,7.333,3.667Z" transform="translate(69.667 22.458)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-64" data-name="Vector" d="M7.333,3.667A3.667,3.667,0,1,1,3.667,0,3.667,3.667,0,0,1,7.333,3.667Z" transform="translate(44 22.458)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path id="Vector-65" data-name="Vector" d="M7.333,3.667A3.667,3.667,0,1,1,3.667,0,3.667,3.667,0,0,1,7.333,3.667Z" transform="translate(56.833 22.458)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        </g>
+      </g>
+    </g>
+    <g id="Component_4" data-name="Component 4" transform="translate(0 88)">
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="750" height="88" fill="#2a2a37"/>
+      <g id="Group_10" data-name="Group 10">
+        <g id="icon_back" data-name="icon/back" transform="translate(30 20)">
+          <path id="Vector_8" data-name="Vector 8" d="M16,0,0,15,16,30" transform="translate(16 9)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.462"/>
+        </g>
+        <text id="SAVE" transform="translate(649 28)" fill="#fff" font-size="28" font-family="SFProText-Regular, SF Pro Text"><tspan x="0" y="27">SAVE</tspan></text>
+        <text id="Add_Room-2" data-name="Add Room" transform="translate(294 8)" fill="#fff" font-size="32" font-family="SFProText-Semibold, SF Pro Text" font-weight="600"><tspan x="0.266" y="30">Add Room</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
